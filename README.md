@@ -8,7 +8,8 @@ Parkinson's disease is a neurodegenerative disorder affecting movement. Freezing
 
 ## Dataset
 
-The dataset used in this project contains [description of dataset, source, size, features, etc.].
+**We have two major datasets here - tdcsfog and defog. Lets see the description and content of these datasets.**
+**The tdcsfog folder includes** more than 800 csv files and accounts for **the majority of the information contained in the whole dataset for this competition**. Moreover, csv files in the edcsfog folder include annotation: StartHesitation, Turn, and Walking.
 
 ## Models
 
@@ -28,4 +29,4 @@ To use the code in this repository:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/your_repository.git
+   git clone https://github.com/tayalsaksham008/Parkinsons-FOG
