@@ -18,9 +18,9 @@ Two machine learning models are employed for prediction:
 1. **Logistic Regression**: A simple yet effective classification algorithm modeling the probability of a binary outcome.
 2. **LightGBM**: A gradient boosting framework known for its speed and efficiency in handling large datasets.
 
-## Results
+## Conclusion
 
-Evaluation metrics used: [insert evaluation metrics]. Results summary: [brief summary of results].
+It is possible that more features or more advanced machine learning algorithms could improve the accuracy of the models. Additionally, it may be useful to investigate other factors that contribute to the occurrence of freezing gait events, such as cognitive or environmental factors.
 
 ## Usage
 
